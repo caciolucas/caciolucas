@@ -24,6 +24,7 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
     - PHP ("Auxiliei" uma colega de escola na escrita de seu <a href="https://github.com/caciolucas/infopolitizado">trabalho final</a>, primeiro e, até então, último contato com PHP)
     - AngularJS (Estudo superficial durante curso técnico)
     - Ionic (Estudo superficial e desenvolvimento de app simples para cálculo de médias escolares e de IMC)
+    - Flutter/Dart (Já me aventurei pelo promissor framework da Google para desenvolvimento Mobile mas não dei continuidade)
 - Participei de alguns projetos de pesquisa e publiquei artigos na área de otimização de algoritmos-metaheurísticos bioinspirados.
 - Estagio no setor de Informática na área de Desenvolvimento da SIMAS Industrial de Alimentos
 
