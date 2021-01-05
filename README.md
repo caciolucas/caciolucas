@@ -54,7 +54,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 <h2>🚀 Repositórios</h2>
 <h3 align="center">🚧<i>Em construção</i> 🚧 </h3>
 
-#
 
 <h2>📫 Contato</h2>
 
@@ -66,7 +65,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 
 
-#
 <!-- <a href="https://icons8.com/icon/aRiu1GGi6Aoe/usa">Usa icon by Icons8</a>
 
 <a href="https://icons8.com/icon/zHmH8HpOmM90/brazil">Brazil icon by Icons8</a> -->
