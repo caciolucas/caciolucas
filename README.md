@@ -18,7 +18,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 <h2>🙎‍♂️ Sobre mim</h2>
 
-#
 
 - Já tive contato com várias linguagens e frameworks, ainda que não tenha um estudo aprofundado em alguns, como:
     - PHP ("Auxiliei" uma colega de escola na escrita de seu <a href="https://github.com/caciolucas/infopolitizado">trabalho final</a>, primeiro e, até então, último contato com PHP)
@@ -30,7 +29,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 <h2>⭐ Minhas tecnologias favoritas </h2>
 
-#
 
 - 🎨 <b>VueJS</b> no Frontend
 - ⚙️ <b>DjangoRest</b> no Backend
@@ -39,7 +37,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 <h2>💼 No que venho trabalhando/estudando</h2>
 
-#
 
 - <h3>🏢 No trabalho (estágio)</h3>
 
@@ -53,7 +50,16 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 
 <h2>🚀 Repositórios</h2>
-<h3 align="center">🚧<i>Em construção</i> 🚧 </h3>
+
+<table>
+    <tr>
+        <td width=450px><a href="https://github.com/caciolucas/blockchain-imd0293"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caciolucas&repo=blockchain-imd0293&theme=tokyonight" /></a></td>
+        <td>Esse projeto consiste em duas API's em Flask (que representam 2 nós completos de uma blockchain) e uma tela, feita com Vue e PrimeVue pra gerenciar as transações e blocos, e resolver os conflitos entre os nós.</td>
+    </tr>
+    <tr><td colspan='2'><h3 align="center">🚧<i>Em construção</i> 🚧 </h3></td></tr>
+ </table>
+
+
 
 
 <h2>📫 Contato</h2>
