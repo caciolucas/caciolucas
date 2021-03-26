@@ -64,8 +64,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 <h2>📫 Contato</h2>
 
-#
-
  - cclucas060901@gmail.com (E-mail)
  - +55 (84) 98631-8386 (Telefone)
  - @Cácio Lucas#9722 (Discord)
