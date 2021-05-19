@@ -11,13 +11,16 @@ Meu nome é Cácio, eu tenho 19 anos e sou um estudante do Bacharelado de Tecnol
 
 
 
-![caciolucas' github stats](https://github-readme-stats.vercel.app/api?username=caciolucas&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true)
+Estatísticas da conta |  Linguagens mais usadas
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-stats.vercel.app/api?username=caciolucas&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caciolucas&exclude_repo=ITP,infopolitizado&theme=tokyonight&locale=pt-br)](https://github.com/caciolucas/github-readme-stats)
+
+<p align="center">
+    
+</p>
 
 
 Apesar de sempre gostar de computação e informática, tive meu primeiro contato com programação enquanto cursava o técnico em Informática no IFRN. Iniciando com Python, rapidamente me apaixonei pela linguagem, com sua infinidade de possibilidades, e pela sua comunidade. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caciolucas&exclude_repo=ITP,infopolitizado&theme=tokyonight&locale=pt-br)](https://github.com/caciolucas/github-readme-stats)
-
 
 
 <h2>🙎‍♂️ Sobre mim</h2>
@@ -33,9 +36,17 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 <h2>⭐ Minhas tecnologias favoritas </h2>
 
 
-- 🎨 <b>VueJS</b> no Frontend
-- ⚙️ <b>DjangoRest</b> no Backend
-- 🐍 <b>Python</b> para qualquer coisa
+- 🎨 No Frontend:
+
+    <img src="https://img.shields.io/badge/Vue.js-gray.svg?logo=vue-dot-js&style=for-the-badge&color=4FC08D&logoColor=white"/>
+    
+- ⚙️ No Backend:
+
+    <img src="https://img.shields.io/badge/Django%20Rest-gray.svg?logo=django&style=for-the-badge&color=092E20&logoColor=white"/>
+    
+- 🐍 Para qualquer coisa:
+
+    <img src="https://img.shields.io/badge/Python-gray.svg?logo=python&style=for-the-badge&color=3776AB&logoColor=white"/>
 
 
 <h2>💼 No que venho trabalhando/estudando</h2>
@@ -72,12 +83,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 <h2>📫 Contato</h2>
 
- - cclucas060901@gmail.com (E-mail)
- - +55 (84) 98631-8386 (Telefone)
- - @Cácio Lucas#9722 (Discord)
-
-
-
-<!-- <a href="https://icons8.com/icon/aRiu1GGi6Aoe/usa">Usa icon by Icons8</a>
-
-<a href="https://icons8.com/icon/zHmH8HpOmM90/brazil">Brazil icon by Icons8</a> -->
+<a href="mailto:cclucas060901@gmail.com"><img src="https://img.shields.io/badge/cclucas060901@gmail.com-gray.svg?logo=mail-dot-ru&style=for-the-badge&color=EA4335&logoColor=white"/></a>
+<a href="t.me/caciolucas"><img src="https://img.shields.io/badge/@caciolucas-gray.svg?logo=telegram&style=for-the-badge&color=26A5E4&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/@Cácio Lucas%239722-gray.svg?logo=discord&style=for-the-badge&color=5865F2&logoColor=white">
