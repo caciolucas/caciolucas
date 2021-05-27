@@ -84,5 +84,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 <h2>📫 Contato</h2>
 
 <a href="mailto:cclucas060901@gmail.com"><img src="https://img.shields.io/badge/cclucas060901@gmail.com-gray.svg?logo=mail-dot-ru&style=for-the-badge&color=EA4335&logoColor=white"/></a>
-<a href="t.me/caciolucas"><img src="https://img.shields.io/badge/@caciolucas-gray.svg?logo=telegram&style=for-the-badge&color=26A5E4&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/@Cácio Lucas%239722-gray.svg?logo=discord&style=for-the-badge&color=5865F2&logoColor=white">
+<a href="https://t.me/caciolucas"><img src="https://img.shields.io/badge/@caciolucas-gray.svg?logo=telegram&style=for-the-badge&color=26A5E4&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cacio-lucas/"><img src="https://img.shields.io/badge//cacio--lucas-gray.svg?logo=linkedin&style=for-the-badge&color=0A66C2&logoColor=white"/></a>
+<a href="https://discord.com/users/204224690170888193"><img src="https://img.shields.io/badge/@Cácio Lucas%239722-gray.svg?logo=discord&style=for-the-badge&color=5865F2&logoColor=white"></a>
