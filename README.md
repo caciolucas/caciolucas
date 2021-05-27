@@ -65,7 +65,7 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
     - Estudando
     - Criando portfolio 
     - Iniciando estudos em outros frameworks frontend e mobile como Angular e Flutter
-    - Iniciando estudos em outros frameworks backend como ASP.NET
+    - Iniciando estudos em outros frameworks backend como ASP.NET e Spring Boot
 
 
 <h2>🚀 Repositórios</h2>
