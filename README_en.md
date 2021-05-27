@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, welcome! 👋</h2>
 
-<a href="readme.md">
+<a href="README.md">
 <img align="right" src="brazil-flag.svg"></a>
 <br><br>
 
