@@ -31,7 +31,7 @@ Though I always liked computers and tech stuff, I had my first contact with deve
 
 - 🎨 Frontend:
 
-    <img src="https://img.shields.io/badge/Vue.js-gray.svg?logo=vue-dot-js&style=for-the-badge&color=4FC08D&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-gray.svg?logo=vue.js&style=for-the-badge&color=4FC08D&logoColor=white"/>
     
 - ⚙️ Backend:
 
@@ -48,10 +48,6 @@ Though I always liked computers and tech stuff, I had my first contact with deve
 - <h3>🏢 No trabalho (estágio)</h3>
 
     - Refazendo e migrando um sistema legado de gerenciamento industrial com VueJS + DjangoRest
-
-- <h3>🏢 No trabalho (bolsa de pesquisa)</h3>
-
-    - Desenvolvimento e manutenção de um sistema comercial de varejo com DjangoRest e PostgreSQL usando metodologias como SCRUM e Git Flow
     
 - <h3>🙋‍♂️ Pessoalmente</h3>
 
@@ -75,7 +71,7 @@ Though I always liked computers and tech stuff, I had my first contact with deve
 
 <h2>📫 Contact me</h2>
 
-<a href="mailto:cclucas060901@gmail.com"><img src="https://img.shields.io/badge/cclucas060901@gmail.com-gray.svg?logo=mail-dot-ru&style=for-the-badge&color=EA4335&logoColor=white"/></a>
+<a href="mailto:cclucas060901@gmail.com"><img src="https://img.shields.io/badge/cclucas060901@gmail.com-gray.svg?logo=mail.ru&style=for-the-badge&color=EA4335&logoColor=white"/></a>
 <a href="https://t.me/caciolucas"><img src="https://img.shields.io/badge/@caciolucas-gray.svg?logo=telegram&style=for-the-badge&color=26A5E4&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/cacio-lucas/"><img src="https://img.shields.io/badge//cacio--lucas-gray.svg?logo=linkedin&style=for-the-badge&color=0A66C2&logoColor=white"/></a>
 <a href="https://discord.com/users/204224690170888193"><img src="https://img.shields.io/badge/@Cácio Lucas%239722-gray.svg?logo=discord&style=for-the-badge&color=5865F2&logoColor=white"></a>
