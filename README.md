@@ -72,10 +72,10 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
         <td width=450px><a href="https://github.com/caciolucas/blockchain-imd0293"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caciolucas&repo=blockchain-imd0293&theme=tokyonight" /></a></td>
         <td>Esse projeto consiste em duas API's em Flask (que representam 2 nós completos de uma blockchain) e uma tela, feita com Vue e PrimeVue pra gerenciar as transações e blocos, e resolver os conflitos entre os nós.</td>
     </tr>
-    <tr>
+<!--     <tr>
         <td width=450px><a href="https://github.com/caciolucas/flutter-studies-jamilton"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caciolucas&repo=flutter-studies-jamilton&theme=tokyonight" /></a></td>
         <td>Esse repositório contem uma lista com os projetos feitos em Flutter durante o curso do Jamilton Damasceno na Udemy. Ainda em construção.</td>
-    </tr>
+    </tr> -->
     <tr><td colspan='2'><h3 align="center">🚧<i>Em construção</i> 🚧 </h3></td></tr>
  </table>
 
