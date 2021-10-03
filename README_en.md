@@ -63,6 +63,10 @@ Though I always liked computers and tech stuff, I had my first contact with deve
         <td width=450px><a href="https://github.com/caciolucas/blockchain-imd0293"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caciolucas&repo=blockchain-imd0293&theme=tokyonight" /></a></td>
         <td>This project consists in two API's written in Flask (each one working as a single full-node from a block chain) and a simple client, built using Vue.js and PrimeVue, to manage transactions, blocks and solve conflicts between the nodes.</td>
     </tr>
+    <tr>
+        <td width=450px><a href="https://github.com/caciolucas/flutter-studies-jamilton"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caciolucas&repo=flutter-studies-jamilton&theme=tokyonight" /></a></td>
+        <td>This repository contains a list with the projects that I built while watching the Jamilton Damascendo's course. I'm still working on it</td>
+    </tr>
     <tr><td colspan='2'><h3 align="center">🚧<i> Working on it </i> 🚧 </h3></td></tr>
  </table>
 
