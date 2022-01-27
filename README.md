@@ -31,7 +31,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
     - AngularJS (Estudo superficial durante curso técnico)
     - Ionic (Estudo superficial e desenvolvimento de app simples para cálculo de médias escolares e de IMC)
 - Participei de alguns projetos de pesquisa e publiquei artigos na área de otimização de algoritmos-metaheurísticos bioinspirados.
-- Estagio no setor de Informática na área de Desenvolvimento da SIMAS Industrial de Alimentos
 
 <h2>⭐ Minhas tecnologias favoritas </h2>
 
@@ -50,7 +49,6 @@ Apesar de sempre gostar de computação e informática, tive meu primeiro contat
 
 
 <h2>💼 No que venho trabalhando/estudando</h2>
-
 
 
 - <h3>🏢 No trabalho (bolsa de pesquisa)</h3>
