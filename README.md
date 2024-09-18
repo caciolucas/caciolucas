@@ -7,8 +7,9 @@
 
 <!-- <img src="https://img.icons8.com/color/100/000000/brazil-circular.png"/>-->
 
-Meu nome é Cácio, eu tenho 19 anos e sou um estudante do Bacharelado de Tecnologia da Informação na UFRN e estudante de Desenvolvimento Web por conta própria. Sou um Pythonista (em ambos os significados da <a href="https://en.wiktionary.org/wiki/Pythonist">Wikipedia</a> :D).
+Me chamo Cácio e sou um desenvolvedor full-stack especializado em Python (Django e FastAPI) mas com experiência em linguagens e frameworks como Spring (Java), Laravel (PHP) e Express/Knex (NodeJS)
 
+Tenho mais de 5 anos de experiência em desenvolvimento de software e estou sempre em busca de me manter atualizado com as últimas tendências e inovações no mundo do desenvolvimento de software.
 
 
 Estatísticas da conta |  Linguagens mais usadas
@@ -18,66 +19,6 @@ Estatísticas da conta |  Linguagens mais usadas
 <p align="center">
     
 </p>
-
-
-Apesar de sempre gostar de computação e informática, tive meu primeiro contato com programação enquanto cursava o técnico em Informática no IFRN. Iniciando com Python, rapidamente me apaixonei pela linguagem, com sua infinidade de possibilidades, e pela sua comunidade. 
-
-
-<h2>🙎‍♂️ Sobre mim</h2>
-
-
-- Já tive contato com várias linguagens e frameworks, ainda que não tenha um estudo aprofundado em alguns, como:
-    - PHP ("Auxiliei" uma colega de escola na escrita de seu <a href="https://github.com/caciolucas/infopolitizado">trabalho final</a>, primeiro e, até então, último contato com PHP)
-    - AngularJS (Estudo superficial durante curso técnico)
-    - Ionic (Estudo superficial e desenvolvimento de app simples para cálculo de médias escolares e de IMC)
-- Participei de alguns projetos de pesquisa e publiquei artigos na área de otimização de algoritmos-metaheurísticos bioinspirados.
-
-<h2>⭐ Minhas tecnologias favoritas </h2>
-
-
-- 🎨 No Frontend:
-
-    <img src="https://img.shields.io/badge/Vue.js-gray.svg?logo=vue.js&style=for-the-badge&color=4FC08D&logoColor=white"/>
-    
-- ⚙️ No Backend:
-
-    <img src="https://img.shields.io/badge/Django%20Rest-gray.svg?logo=django&style=for-the-badge&color=092E20&logoColor=white"/>
-    
-- 🐍 Para qualquer outra coisa:
- 
-    <img src="https://img.shields.io/badge/Python-gray.svg?logo=python&style=for-the-badge&color=3776AB&logoColor=white"/> 
-
-
-<h2>💼 No que venho trabalhando/estudando</h2>
-
-
-- <h3>🏢 No trabalho (bolsa de pesquisa)</h3>
-
-    - Desenvolvimento e manutenção de um sistema comercial de varejo com DjangoRest e PostgreSQL usando metodologias como SCRUM e Git Flow
-    
-- <h3>🙋‍♂️ Pessoalmente</h3>
-
-    - Estudando
-    - Criando portfolio 
-    - Iniciando estudos em outros frameworks frontend e mobile como Angular e Flutter
-    - Iniciando estudos em outros frameworks backend como ASP.NET e Spring Boot
-
-
-<h2>🚀 Repositórios</h2>
-
-<table>
-    <tr>
-        <td width=450px><a href="https://github.com/caciolucas/blockchain-imd0293"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caciolucas&repo=blockchain-imd0293&theme=tokyonight" /></a></td>
-        <td>Esse projeto consiste em duas API's em Flask (que representam 2 nós completos de uma blockchain) e uma tela, feita com Vue e PrimeVue pra gerenciar as transações e blocos, e resolver os conflitos entre os nós.</td>
-    </tr>
-    <tr>
-        <td width=450px><a href="https://github.com/caciolucas/flutter-studies-jamilton"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caciolucas&repo=flutter-studies-jamilton&theme=tokyonight" /></a></td>
-        <td>Esse repositório contem uma lista com os projetos feitos em Flutter durante o curso do Jamilton Damasceno na Udemy. Ainda em construção.</td>
-    </tr>
-    <tr><td colspan='2'><h3 align="center">🚧<i>Em construção</i> 🚧 </h3></td></tr>
- </table>
-
-
 
 
 <h2>📫 Contato</h2>
