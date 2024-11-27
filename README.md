@@ -8,14 +8,6 @@ My name is Cácio, and I'm a **full-stack developer specializing in Python (Djan
 
 With over **6 years of experience** in software development, I’m passionate about staying updated with the latest trends and innovations in the industry.
 
-### 📊 Statistics
-
-Account Stats | Most Used Languages
-:-------------------------:|:-------------------------:
-<img src="https://github-readme-stats.vercel.app/api?username=caciolucas&count_private=true&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true"/>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caciolucas&exclude_repo=ITP,infopolitizado&theme=tokyonight&locale=en)](https://github.com/caciolucas/github-readme-stats)
-
----
-
 ### 📫 Contact
 
 <a href="mailto:cclucas060901@gmail.com"><img src="https://img.shields.io/badge/cclucas060901@gmail.com-gray.svg?logo=mail.ru&style=for-the-badge&color=EA4335&logoColor=white"/></a>
